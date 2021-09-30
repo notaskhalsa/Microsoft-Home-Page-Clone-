@@ -1,6 +1,6 @@
 # Microsoft-Home-Page-Clone
 
-### This repository contains the code for a clone 0f Official Microsoft Home Page. 
+### This repository contains the code for a clone of Official Microsoft Home Page. 
 
 #### Here are some screenshots of the project
 
